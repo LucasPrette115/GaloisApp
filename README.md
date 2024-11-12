@@ -1,8 +1,6 @@
-# graph_app
+# GaloisApp
 
 A new Flutter project.
-
-## Getting Started
 
 ## Projeto LP3
 ## Nomes: Lucas Amado Prette | Eduardo Silva de Oliveira | Rafael Gonçalves Francisco | Carlos Eduardo da Costa Cáceres
