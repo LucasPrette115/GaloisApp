@@ -4,6 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
+## Projeto LP3
+## Nomes: Lucas Amado Prette | Eduardo Silva de Oliveira | Rafael Gonçalves Francisco | Carlos Eduardo da Costa Cáceres
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
